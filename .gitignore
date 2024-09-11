@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 .idea/
+*.flac
+*.mp3
 
 # Distribution / packaging
 .Python
